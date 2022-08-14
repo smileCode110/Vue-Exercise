@@ -1,4 +1,4 @@
-#如何启动后台项目
+# 如何启动后台项目
 1. 安装xampp软件 （创建本地的服务-集成工具）如果安装中mysql-关闭服务mysql
 2. 启动xampp文件：apache mysql打开：浏览器输入https://localhost/phpmyadmin/
 3. 导入sql文件（后台项目需要的数据库文件） ego.sql （注意：数据库名称ego）
